@@ -3,6 +3,8 @@
 	"author": "Ashwin Krishnan",
 	"description": "A learning start and first of many to come",
 	"keywords":["freecodecamp","coding"],
+	"license" : "Self-Owned",
+	"version": "0.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
