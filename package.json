@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ashwin Krishnan",
+	"description": "A learning start and first of many to come",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
